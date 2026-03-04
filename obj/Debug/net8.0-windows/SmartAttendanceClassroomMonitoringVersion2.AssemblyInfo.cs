@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartAttendanceClassroomMonitoringVersion2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76fdb2c6a6534265dd5e63eb6aeda1ab821ed9b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartAttendanceClassroomMonitoringVersion2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartAttendanceClassroomMonitoringVersion2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,6 +37,9 @@
     <Compile Update="MainView.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="sample form.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TeacherRecordModule.cs">
       <SubType>Form</SubType>
     </Compile>
